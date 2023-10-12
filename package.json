@@ -4,7 +4,7 @@
   "homepage": "https://github.com/Orkhan-B",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Orkhan-B/cypress-token-seed.git"
+    "url": "git+https://github.com/Orkhan-B/Cypress-Token-seeding.git"
   },
   "dependencies": {
     "cypress": "^13.3.0",
